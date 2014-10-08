@@ -1,0 +1,5 @@
+D:\MyResearchs\GitSource\WCF\MyBaseWCF_Application\MyBaseWCF_Application\bin\MyBaseWCF_Application.dll
+D:\MyResearchs\GitSource\WCF\MyBaseWCF_Application\MyBaseWCF_Application\bin\MyBaseWCF_Application.pdb
+D:\MyResearchs\GitSource\WCF\MyBaseWCF_Application\MyBaseWCF_Application\obj\Debug\MyBaseWCF_Application.csprojResolveAssemblyReference.cache
+D:\MyResearchs\GitSource\WCF\MyBaseWCF_Application\MyBaseWCF_Application\obj\Debug\MyBaseWCF_Application.dll
+D:\MyResearchs\GitSource\WCF\MyBaseWCF_Application\MyBaseWCF_Application\obj\Debug\MyBaseWCF_Application.pdb

@@ -1,0 +1,9 @@
+D:\MyResearchs\GitSource\WCF\MyBaseWCF_ConsumeClient\MyBaseWCF_ConsumeClient\bin\Debug\MyBaseWCF_ConsumeClient.exe.config
+D:\MyResearchs\GitSource\WCF\MyBaseWCF_ConsumeClient\MyBaseWCF_ConsumeClient\bin\Debug\MyBaseWCF_ConsumeClient.exe
+D:\MyResearchs\GitSource\WCF\MyBaseWCF_ConsumeClient\MyBaseWCF_ConsumeClient\bin\Debug\MyBaseWCF_ConsumeClient.pdb
+D:\MyResearchs\GitSource\WCF\MyBaseWCF_ConsumeClient\MyBaseWCF_ConsumeClient\obj\Debug\MyBaseWCF_ConsumeClient.csprojResolveAssemblyReference.cache
+D:\MyResearchs\GitSource\WCF\MyBaseWCF_ConsumeClient\MyBaseWCF_ConsumeClient\obj\Debug\MyBaseWCF_ConsumeClient.Properties.Resources.resources
+D:\MyResearchs\GitSource\WCF\MyBaseWCF_ConsumeClient\MyBaseWCF_ConsumeClient\obj\Debug\MyBaseWCF_ConsumeClient.csproj.GenerateResource.Cache
+D:\MyResearchs\GitSource\WCF\MyBaseWCF_ConsumeClient\MyBaseWCF_ConsumeClient\obj\Debug\MyBaseWCF_ConsumeClient.exe
+D:\MyResearchs\GitSource\WCF\MyBaseWCF_ConsumeClient\MyBaseWCF_ConsumeClient\obj\Debug\MyBaseWCF_ConsumeClient.pdb
+D:\MyResearchs\GitSource\WCF\MyBaseWCF_ConsumeClient\MyBaseWCF_ConsumeClient\obj\Debug\MyBaseWCF_ConsumeClient.Form1.resources
